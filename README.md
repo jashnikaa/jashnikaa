@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI/UX Designing, Front-end Web Development, DevOps and AI/ML
 - 🌱 I’m currently learning AI/ML and DevOps
 - 💞️ I’m looking to collaborate on projects that benefit from my current skill-set or drag me into learning more 
-- 📫 Reach me through email: jashnikaa@gmail.com
+- 📫 Reach me through my email: jashnikaa@gmail.com
 - ⚡ Fun fact: I have an Obsessive Compulsive Disorder that surfaces solely during designing
 
 <!---
