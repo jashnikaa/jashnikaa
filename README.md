@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jashnikaa
-- 👀 I’m interested in UI/UX Designing, Front-end Web Development, DevOps and AI/ML
-- 🌱 I’m currently learning AI/ML and DevOps
+- 👀 I’m interested in UI/UX Designing, Front-end Web Development and AI/ML
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on projects that benefit from my current skill-set or drag me into learning more 
 - 📫 Reach out to me at: jashnikaa@gmail.com
 - ⚡ Fun fact: I have an Obsessive Compulsive Disorder that surfaces solely when I am designing
